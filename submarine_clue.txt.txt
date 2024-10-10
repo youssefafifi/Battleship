@@ -1,0 +1,1 @@
+Submarine detected at row C, column 4.
